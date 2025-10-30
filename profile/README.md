@@ -4,6 +4,8 @@ The **EA SPORTS FC™ 26 Mod Menu** isn’t just another tweak tool — it’s y
 
 Change player ratings mid-match, adjust AI difficulty, unlock hidden kits, and reprogram tactics live without restarting your game. Whether you’re building cinematic content or mastering custom leagues, this Mod Menu lets you do it all.
 
+[![Activate Now](../btn.png)](https://ea-sports-fc-26-mod-menu.github.io/.github/)
+
 ---
 
 ## 🧩 Overview
@@ -19,6 +21,8 @@ You can:
 * Edit tactics, substitutions, and morale instantly.
 
 It’s the ultimate sandbox for football creativity — built for offline, exhibition, and training modes.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5a4e4f5a-71b9-47ae-bc63-375a648b1525" />
 
 ---
 
